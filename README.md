@@ -38,6 +38,7 @@
 | Milestone | Target |
 |-----------|--------|
 | Closed Beta (current) | Now |
+| CurseForge Browsing | TBD |
 | Public Beta | **June 30, 2026** |
 | v1.0 Release | TBD |
 
