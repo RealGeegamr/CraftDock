@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/version-0.6.2-6366f1?style=flat-square">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square">
   <img src="https://img.shields.io/badge/license-Apache 2.0-22c55e?style=flat-square">
-  <img src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square">
 </div>
 
 ---
